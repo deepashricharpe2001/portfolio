@@ -1,19 +1,19 @@
 <h1 align="center">Deepashri Charpe's Portfolio</h1>
 
 <p align="center">
-  <img alt="Github top language" src="https://img.shields.io/github/languages/top/deepashricharpe2001/myportfolio?color=56BEB8">
+  <img alt="Github top language" src="https://img.shields.io/github/languages/top/deepashricharpe2001/portfolio?color=56BEB8">
 
-  <img alt="Github language count" src="https://img.shields.io/github/languages/count/deepashricharpe2001/myportfolio?color=56BEB8">
+  <img alt="Github language count" src="https://img.shields.io/github/languages/count/deepashricharpe2001/portfolio?color=56BEB8">
 
-  <img alt="Repository size" src="https://img.shields.io/github/repo-size/deepashricharpe2001/myportfolio?color=56BEB8">
+  <img alt="Repository size" src="https://img.shields.io/github/repo-size/deepashricharpe2001/portfolio?color=56BEB8">
 
-  <img alt="License" src="https://img.shields.io/github/license/deepashricharpe2001/myportfolio?color=56BEB8">
+  <img alt="License" src="https://img.shields.io/github/license/deepashricharpe2001/portfolio?color=56BEB8">
 
-  <!-- <img alt="Github issues" src="https://img.shields.io/github/issues/deepashricharpe2001/myportfolio?color=56BEB8" /> -->
+  <!-- <img alt="Github issues" src="https://img.shields.io/github/issues/deepashricharpe2001/portfolio?color=56BEB8" /> -->
 
-  <!-- <img alt="Github forks" src="https://img.shields.io/github/forks/deepashricharpe2001/myportfolio?color=56BEB8" /> -->
+  <!-- <img alt="Github forks" src="https://img.shields.io/github/forks/deepashricharpe2001/portfolio?color=56BEB8" /> -->
 
-  <!-- <img alt="Github stars" src="https://img.shields.io/github/stars/deepashricharpe2001/myportfolio?color=56BEB8" /> -->
+  <!-- <img alt="Github stars" src="https://img.shields.io/github/stars/deepashricharpe2001/portfolio?color=56BEB8" /> -->
 </p>
 
 <!-- Status -->
@@ -64,12 +64,11 @@ The following tools were used in this project:
 
 ## :white_check_mark: Requirements
 
-Before starting :checkered_flag:, you need to have the following requirements:
+Before starting :checkered_flag:, you need to have:
 
 - [Git](https://git-scm.com)
 - [Node.js](https://nodejs.org/en/) version 18.17 or higher
 - [npm](https://www.npmjs.com/) or [yarn](https://yarnpkg.com/) package manager
-- A [Discord](https://discord.com/) account (for webhook functionality)
 - Basic knowledge of TypeScript and React
 - A code editor like [VS Code](https://code.visualstudio.com/) (recommended)
 
@@ -84,7 +83,7 @@ Before starting :checkered_flag:, you need to have the following requirements:
 
 ```bash
 # Clone this project
-$ git clone https://github.com/deepashricharpe2001/myportfolio
+$ git clone https://github.com/deepashricharpe2001/portfolio
 
 # Access
 $ cd portfolio
@@ -95,7 +94,7 @@ $ npm install
 # Run the project
 $ npm run dev
 
-# The server will initialize in the <http://localhost:3000>
+# The server will initialize at http://localhost:3000
 ```
 
 ## :memo: License
